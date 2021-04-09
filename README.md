@@ -9,7 +9,7 @@ My name is Javid Waldron and I am a creative. I work in many different artistic 
 🎮Unreal
 
 ### Examples of Work
-<img src="https://github.com/javidwaldron/javidwaldron/blob/main/Untitled-12.gif" width="256" />
+<img src="https://github.com/javidwaldron/javidwaldron/blob/main/Untitled-12.gif" width="500" />
 
 
 - 🔭 I’m currently working on this page. 
