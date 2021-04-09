@@ -8,6 +8,10 @@ My name is Javid Waldron and I am a creative. I work in many different artistic 
 🎨Photoshop
 🎮Unreal
 
+### Examples of Work
+<img src="https://github.com/javidwaldron/javidwaldron/blob/main/Untitled-12.gif"width="256"/>
+
+
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning 3D Modeling & Game Design 
 - 📫 How to reach me: javidwaldron@gmail.com 
