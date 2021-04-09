@@ -9,7 +9,7 @@ My name is Javid Waldron and I am a creative. I work in many different artistic 
 🎮Unreal
 
 ### Examples of Work
-<img src="https://github.com/javidwaldron/javidwaldron/blob/main/brighter.gif" width="400" /> <img src="https://github.com/javidwaldron/javidwaldron/blob/main/matchcontrast1.png" width="300" /> <img src="https://github.com/javidwaldron/javidwaldron/blob/main/insta3.jpg" width="300" />
+<img src="https://github.com/javidwaldron/javidwaldron/blob/main/brighter.gif" width="350" /> <img src="https://github.com/javidwaldron/javidwaldron/blob/main/matchcontrast1.png" width="350" /> <img src="https://github.com/javidwaldron/javidwaldron/blob/main/insta3.jpg" width="350" />
 This is a mock up of an arcade cabinet made with Autodesk Maya
 
 <img src="https://github.com/javidwaldron/javidwaldron/blob/main/test.gif" width="500" />
