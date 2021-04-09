@@ -13,7 +13,8 @@ My name is Javid Waldron and I am a creative. I work in many different artistic 
 
 This is a mock up of an arcade cabinet made with Autodesk Maya
 
-<img src="https://github.com/javidwaldron/javidwaldron/blob/main/test.gif" width="350" /> <img src="https://github.com/javidwaldron/javidwaldron/blob/main/rug%20insta.jpg" width="350" />
+<img src="https://github.com/javidwaldron/javidwaldron/blob/main/test.gif" width="350" /> <img src="https://github.com/javidwaldron/javidwaldron/blob/main/rug%20insta.jpg" width="350" /> <img src="https://github.com/javidwaldron/javidwaldron/blob/main/Rugglesprogress338.jpg" width="350" />
+
 
 
 
