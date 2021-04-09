@@ -1,4 +1,4 @@
-#Javid A. Waldron
+# Javid A. Waldron
 #### Artistry and Design
 ![Artistry and Design](https://github.com/javidwaldron/javidwaldron/blob/main/banner2.png)
 
