@@ -13,8 +13,12 @@ My name is Javid Waldron and I am a creative. I work in many different artistic 
 
 This is a mock up of an arcade cabinet made with Autodesk Maya
 
-<img src="https://github.com/javidwaldron/javidwaldron/blob/main/test.gif" width="500" />
-A digital illustration using Photoshop
+<img src="https://github.com/javidwaldron/javidwaldron/blob/main/test.gif" width="350" /> <img src="https://github.com/javidwaldron/javidwaldron/blob/main/rug%20insta.jpg" width="350" />
+
+
+
+
+This work in progress is early modeling of a level for a game I am working on. Using both Autodesk Maya and Unreal Engine to come to fruition.
 
 
 - 🔭 I’m currently working on this page. 
